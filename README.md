@@ -4,7 +4,7 @@
 
 This project is a Django-based web application for managing and visualizing stock market data. It includes functionality to load data from JSON files into a MySQL database, provide API endpoints for fetching and paginating stock data, and visualize the data using interactive charts. Additionally, it allows users to edit and delete individual stock data entries.
 
-**Frontend Github Link:** [https://github.com/ssifu/Stock-Data-Visualization-Backend](https://github.com/ssifu/Stock-Data-Visualization-Frontend)
+**Frontend Github Link:** [https://github.com/ssifu/Stock-Data-Visualization-Frontend](https://github.com/ssifu/Stock-Data-Visualization-Frontend)
 
 ## Project Features
 
